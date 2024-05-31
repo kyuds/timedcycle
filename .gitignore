@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Mac OS
+.DS_Store
+
+# vscode
+.vscode/
+
+# executable
+timer
